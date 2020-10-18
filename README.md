@@ -4,6 +4,7 @@ My [portfolio](https://liamhtml.github.io) is also hosted with GitHub Pages. **(
 ## Languages
  - HTML5
  - CSS3
+ - SQL
 ### Current Projects
  - Building DSArchive with [Duval Studios](https://duvalstudios.weebly.com)
 ### Future Projects
