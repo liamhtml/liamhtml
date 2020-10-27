@@ -1,5 +1,5 @@
 # Hello! 
-I am a web developer who uses GitHub for my projects! 
+I am a web developer who uses GitHub for my projects! I have worked on multiple websites for private clients.
 My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
 ## I've used...
  - HTML5
