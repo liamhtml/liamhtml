@@ -9,6 +9,7 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
  - WordPress
 ### Current Projects
  - Building [DSArchive](http://dsarchive.rf.gd) with [Duval Studios](https://duvalstudios.weebly.com)
+ - Updating and polishing websites owned by [TRAQ](https://trojanmiddle.swimtopia.com/)
 ### Future Projects
  TBD
  ## Stats
