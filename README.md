@@ -1,6 +1,6 @@
 # Hello! 
 I am a web developer who uses GitHub for my projects! I have worked on multiple websites for private clients.
-My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
+My portfolio is also hosted with GitHub Pages. **(Under Construction)**
 ## I've used...
  - HTML5
  - CSS3
@@ -10,6 +10,7 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
 ### Current Projects
  - Building [DSArchive](http://dsarchive.rf.gd) with [Duval Studios](https://duvalstudios.weebly.com)
  - Updating and polishing websites owned by [TRAQ](https://trojanmiddle.swimtopia.com/)
+ - Designing and developing [my personal portfolio](https://liamhtml.github.io) 
 ### Future Projects
  TBD
  ## Stats
