@@ -6,11 +6,11 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  - CSS3
  - SQL
  - JavaScript
- - WordPress
+ - [WordPress](https://WordPress.com)
 ### Current Projects
- - Building [DSArchive](http://dsarchive.rf.gd) with [Duval Studios](https://duvalstudios.weebly.com)
- - Updating and polishing websites owned by [TRAQ](https://trojanmiddle.swimtopia.com/)
- - Designing and developing [my personal portfolio](https://liamhtml.github.io) 
+ - Building [DSArchive](http://DSArchive.rf.gd) with [Duval Studios](https://DuvalStudios.weebly.com)
+ - Updating and polishing websites owned by [TRAQ](https://TrojanMiddle.Swimtopia.com/)
+ - Designing and developing [my personal portfolio](https://liamhtml.GitHub.io) 
 ### Future Projects
  TBD
  ## Stats
