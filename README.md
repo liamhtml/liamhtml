@@ -5,7 +5,8 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
  - HTML5
  - CSS3
  - SQL
+ - JavaScript
 ### Current Projects
- - Building DSArchive with [Duval Studios](https://duvalstudios.weebly.com)
+ - Building [DSArchive](http://dsarchive.rf.gd) with [Duval Studios](https://duvalstudios.weebly.com)
 ### Future Projects
  TBD
