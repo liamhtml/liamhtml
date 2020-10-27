@@ -11,3 +11,6 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
  - Building [DSArchive](http://dsarchive.rf.gd) with [Duval Studios](https://duvalstudios.weebly.com)
 ### Future Projects
  TBD
+ ## Stats
+ Commits
+ {{ COMMITS }}
