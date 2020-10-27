@@ -12,5 +12,5 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
 ### Future Projects
  TBD
  ## Stats
- [![liamhtml's github stats](https://github-readme-stats.vercel.app/api?username=liamhtml&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![liamhtml's github stats](https://github-readme-stats.vercel.app/api?username=liamhtml&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
