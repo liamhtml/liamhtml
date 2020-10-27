@@ -13,4 +13,4 @@ My portfolio is also hosted with GitHub Pages. **(COMING SOON)**
  TBD
  ## Stats
  Commits
- {{ COMMITS }}
+ 
