@@ -11,7 +11,7 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanMiddle.Swimtopia.com/)** 🌊
  - 🎨 Designing and developing **[my personal portfolio](#)** 🎨
- - 📝 Building **[jot](https://liamhtml.GitHub.io/jot)** 
+ - 📝 Building **[jot](https://liamhtml.GitHub.io/jot)** 📝
  ## Stats
  [![liamhtml's github stats](https://github-readme-stats.vercel.app/api?username=liamhtml&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  
