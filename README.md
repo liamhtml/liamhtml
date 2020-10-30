@@ -10,7 +10,7 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
 ### Current Projects
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanMiddle.Swimtopia.com/)** 🌊
- - 🎨 Designing and developing **[my personal portfolio](#)** 🎨
+ - 🎨 Designing and developing **[my personal portfolio](https://GitHub.com/liamhtml/liamhtml.github.io)** 🎨
  ### Past Projects
   - 📝 **[jot](https://liamhtml.GitHub.io/jot)** 📝
  ## Stats
