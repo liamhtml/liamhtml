@@ -16,9 +16,9 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  ### My Work 
   - ✏ **[jot](https://liamhtml.GitHub.io/jot)** ✏
  ### Organizations
- #### **[Duval Studios](https://github.com/duvalstudios)**
+ ### **[Duval Studios](https://github.com/duvalstudios)**
  Duval Studios is a programming/coding group which focuses on software development and penetration testing. Learn more at **(our website)[https://duvalstudios.weebly.com]**. Also check out one of my friends in DS, **(Byte-A)[https://github.com/byte-a]**!
- #### **(the RePear Squad)[https://github.com/repear-squad]**
+ ### **(the RePear Squad)[https://github.com/repear-squad]**
  The RePear Squad is a custom pc build and repair company. I'm sort of an unofficial member, as my main job is running **(the website)[https://repear-squad.github.io]**. Byte-A is in this group as well as another friend of mine, **(John)[https://github.com/thejetpuff]**.
  
  ## Stats 
