@@ -7,6 +7,7 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  - 🧮 SQL 🧮
  - ☕ JavaScript ☕
  - 📰 **[WordPress](https://WordPress.com)** 📰
+ - 👢 Bootstrap 👢
 ### Current Projects 
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanMiddle.Swimtopia.com/)** 🌊
