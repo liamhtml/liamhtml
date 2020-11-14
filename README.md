@@ -6,7 +6,6 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  - 🖌 CSS3 🖌
  - 🧮 SQL 🧮
  - ☕ JavaScript ☕
- - 📰 **[WordPress](https://WordPress.com)** 📰
  - 👢 **[Bootstrap](https://GetBootstrap.com)** 👢
 ### Current Projects 
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
