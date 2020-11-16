@@ -9,7 +9,7 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
  - 👢 **[Bootstrap](https://GetBootstrap.com)** 👢
 ### Current Projects 
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
- - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanMiddle.Swimtopia.com/)** 🌊
+ - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanAquatics.Swimtopia.com/)** 🌊
  - 🎨 Designing and developing **[my personal portfolio](https://GitHub.com/liamhtml/liamhtml.github.io)** 🎨
  - 🍐 Making a website for **[The RePear Squad](https://GitHub.com/repear-squad/repear-squad.github.io)** 🍐
  - 🖼 Creating an online portfolio for **[TheOkayGuy](https://theokayguy1.github.io)** 🖼
