@@ -1,12 +1,14 @@
 # Hello! 
 I am a web dev who uses GitHub for my projects! I have worked on multiple websites for clients I know personally.
 My portfolio is also hosted with GitHub Pages. **(Under Construction)**
-## I've used...
+## Experience
+I have experience with...
  - 📝 HTML5 📝
  - 🖌 CSS3 🖌
  - 🧮 SQL 🧮
  - ☕ JavaScript ☕
  - 👢 **[Bootstrap](https://GetBootstrap.com)** 👢
+ - 🎨 **[Figma](https://Figma.com)** 🎨
 ### Current Projects 
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanAquatics.Swimtopia.com/)** 🌊
