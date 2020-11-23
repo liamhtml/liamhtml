@@ -14,9 +14,9 @@ I have experience with...
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanAquatics.Swimtopia.com/)** 🌊
  - 🎨 Designing and developing **[my personal portfolio](https://GitHub.com/liamhtml/liamhtml.github.io)** 🎨
  - 🍐 Making a website for **[The RePear Squad](https://GitHub.com/repear-squad/repear-squad.github.io)** 🍐
- - 🖼 Creating an online portfolio for **[TheOkayGuy](https://theokayguy1.github.io)** 🖼
  ### My Work 
   - ✏ **[jot](https://liamhtml.GitHub.io/jot)** ✏
+  - 🖼 The art portfolio of **[TheOkayGuy](https://theokayguy1.github.io)** 🖼
  ### Organizations
  ### **[Duval Studios](https://github.com/duvalstudios)**
  Duval Studios is a programming/coding group which focuses on software development and penetration testing. Learn more at **[our website](https://duvalstudios.weebly.com)**. Also check out one of my friends in DS, **[Byte-A](https://github.com/byte-a)**!
