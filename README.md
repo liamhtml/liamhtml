@@ -14,7 +14,7 @@ I have experience with...
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanAquatics.Swimtopia.com/)** 🌊
  - 🎨 Designing and developing **[my personal portfolio](https://GitHub.com/liamhtml/liamhtml.github.io)** 🎨
  - 🍐 Making a website for **[The RePear Squad](https://GitHub.com/repear-squad/repear-squad.github.io)** 🍐
- - 🐶 Programming **[Dogify](https://GitHub.com/liamhtml/dogify)**
+ - 🐶 Programming **[Dogify](https://GitHub.com/liamhtml/dogify)** 🐶
  ### My Work 
   - ✏ **[jot](https://liamhtml.GitHub.io/jot)** ✏
   - 🖼 The art portfolio of **[TheOkayGuy](https://theokayguy1.github.io)** 🖼
