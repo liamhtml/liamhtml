@@ -5,8 +5,8 @@ My portfolio is also hosted with GitHub Pages. **(Under Construction)**
 I have experience with...
  - 📝 HTML5 📝
  - 🖌 CSS3 🖌
+  - ☕ JavaScript ☕
  - 🧮 SQL 🧮
- - ☕ JavaScript ☕
  - 👢 **[Bootstrap](https://GetBootstrap.com)** 👢
  - 🎨 **[Figma](https://Figma.com)** 🎨
 ## Current Projects 
