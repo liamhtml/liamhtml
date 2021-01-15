@@ -13,7 +13,6 @@ I have experience with...
  - 📂 Building **[DSArchive](http://DSArchive.rf.gd)** with **[Duval Studios](https://DuvalStudios.weebly.com)** 📂
  - 🌊 Updating and polishing websites owned by **[TRAQ](https://TrojanAquatics.Swimtopia.com/)** 🌊
  - 🎨 Designing and developing **[my personal portfolio](https://GitHub.com/liamhtml/liamhtml.github.io)** 🎨
- - 🦸‍♂️ **[Avenging privacy](https://github.com/liamhtml/PrivacyAvenger)** 🦸‍♂️
  ## My Work 
   - ✏ **[jot](https://liamhtml.GitHub.io/jot)** ✏
    - 🐶 **[Dogify](https://chrome.google.com/webstore/detail/dogify/llakkjnncigicdjicpldakfjbafjlgof)** 🐶
