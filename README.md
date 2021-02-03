@@ -7,6 +7,7 @@ I have experience with...
  - 🖌 CSS3 🖌
   - ☕ JavaScript ☕
  - 🧮 SQL 🧮
+ - Some 💾 Batch 💾
  - 👢 **[Bootstrap](https://GetBootstrap.com)** 👢
  - 🎨 **[Figma](https://Figma.com)** 🎨
 ## Current Projects 
