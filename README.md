@@ -1,5 +1,5 @@
 # Hello! 
-I am a webdev. I do cool stuff sometimes.
+I'm Liam, and I am a webdev and programmer!
 ## Experience
  - HTML5 
  - CSS3
