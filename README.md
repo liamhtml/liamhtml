@@ -1,5 +1,5 @@
 # Hello! 
-I'm Liam, and I am a webdev and programmer!
+I'm Liam, and I am a webdev and programmer! I mostly like to mess around and make things for fun, but I have done a few professional projects.
 ## Experience
  - HTML5 
  - CSS3
