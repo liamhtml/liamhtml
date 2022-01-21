@@ -4,7 +4,6 @@ I'm Liam, and I am a webdev and programmer! I mostly like to mess around and mak
  - HTML5 
  - CSS3
  - JavaScript
- - TypeScript
  - Figma
  - Windows Commandline
  - PHP
