@@ -11,7 +11,7 @@ I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make
  (in that order)
 ## current projects 
  - [bana](https://github.com/liamhtml/idle-bana) 🍌
- - [a pylon CLI](https://github.com/liamhtml/pylon-cli)
+ - [Pylon CLI](https://github.com/liamhtml/pylon-cli)
  
  ## stats
  
