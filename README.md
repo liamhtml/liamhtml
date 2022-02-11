@@ -7,8 +7,9 @@ I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make
  - Figma
  - Windows cmd
  - PHP
- - Some Batch
- (in that order)
+ - Some Batch 
+
+(in that order)
 ## current working on
  - [PLAYHYDRA](https://github.com/liamhtml/playhydra)
  - [bana](https://github.com/liamhtml/idle-bana) 🍌
