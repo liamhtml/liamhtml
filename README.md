@@ -5,9 +5,9 @@ I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make
  - CSS
  - JavaScript
  - Figma
- - Windows cmd
+ - Windows terminal (harkerman)
  - PHP
- - Some Batch 
+ - Some batch 
 
 (in that order)
 ## current working on
