@@ -1,18 +1,18 @@
 # hello! 
 I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make things for fun, but I have worked on a few professional projects.
-## stuff I know how to use
+## technologies I use
  - HTML (surprising, right?)
  - CSS
- - JavaScript
+ - JavaScript/TypeScript
+ - Node.js
+ - webpack
  - Figma
  - Windows terminal (harkerman)
  - PHP
  - Some batch 
-
-(in that order)
+ 
 ## current working on
- - [PLAYHYDRA](https://github.com/liamhtml/playhydra)
- - [Pylon CLI](https://github.com/liamhtml/pylon-cli)
+ - learning React and more about frontend frameworks
  
  ## stats
  
