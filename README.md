@@ -1,18 +1,19 @@
 # hello! 
 I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make things for fun, but I have worked on a few professional projects.
-## technologies I use
+## experience
+### languages/frameworks
  - HTML (surprising, right?)
  - CSS
  - JavaScript/TypeScript
  - Node.js
+ - Some PHP
+### other tools
  - webpack
  - Figma
- - Windows terminal (harkerman)
- - PHP
- - Some batch 
+ - Windows terminal
  
 ## current working on
- - learning React and more about frontend frameworks
+ - learning React and more frontend
  
  ## stats
  
