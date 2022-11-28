@@ -1,5 +1,5 @@
 # hello! 
-I'm Liam, and I'm a webdev and programmer! I mostly like to mess around and make things for fun, but I have worked on a few professional projects.
+I'm Liam, and I'm a web developer and programmer! I mostly like to mess around and make things for fun, but I have worked on a few professional projects.
 ## experience
 ### languages/frameworks
  - HTML (surprising, right?)
